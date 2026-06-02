@@ -1,0 +1,59 @@
+{
+  "siteId": "time-honored-brand-restaurant-tour",
+  "generatedAt": "2026-06-02T15:38:13.961531",
+  "categories": [
+    "beginner-time-honored-brand-restaurant-tour",
+    "advanced-time-honored-brand-restaurant-tour",
+    "tips-time-honored-brand-restaurant-tour",
+    "history-time-honored-brand-restaurant-tour",
+    "trending-time-honored-brand-restaurant-tour",
+    "tutorials-time-honored-brand-restaurant-tour"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-time-honored-brand-restaurant-tour",
+      "category_name": "Beginner Time-Honored Brand Restaurant Tour"
+    },
+    {
+      "category_slug": "advanced-time-honored-brand-restaurant-tour",
+      "category_name": "Advanced Time-Honored Brand Restaurant Tour"
+    },
+    {
+      "category_slug": "tips-time-honored-brand-restaurant-tour",
+      "category_name": "Time-Honored Brand Restaurant Tour Tips"
+    },
+    {
+      "category_slug": "history-time-honored-brand-restaurant-tour",
+      "category_name": "Time-Honored Brand Restaurant Tour History"
+    },
+    {
+      "category_slug": "trending-time-honored-brand-restaurant-tour",
+      "category_name": "Trending Time-Honored Brand Restaurant Tour"
+    },
+    {
+      "category_slug": "tutorials-time-honored-brand-restaurant-tour",
+      "category_name": "Time-Honored Brand Restaurant Tour Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "time-honored-brand-restaurant-tour",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "sidebar",
+    "site_title": "Time-Honored Brand Restaurant Tour Central",
+    "articles_per_row": 1
+  }
+}

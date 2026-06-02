@@ -1,0 +1,88 @@
+# Validation Report - time-honored-brand-restaurant-tour
+
+Generated: 2026-06-02T15:38:13.961358
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Time-Honored Brand Restaurant Tour
+- ✓ Article word count OK: Beginner Time-Honored Brand Restaurant Tour: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Time-Honored Brand Restaurant Tour
+- ✓ Article word count OK: Beginner Time-Honored Brand Restaurant Tour Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Time-Honored Brand Restaurant Tour
+- ✓ Article word count OK: Beginner Time-Honored Brand Restaurant Tour in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Time-Honored Brand Restaurant Tour
+- ✓ Article word count OK: Common Mistakes in Beginner Time-Honored Brand Restaurant Tour
+- ✓ Article word count OK: Beginner Time-Honored Brand Restaurant Tour for Beginners
+- ✓ Article word count OK: Advanced Beginner Time-Honored Brand Restaurant Tour Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Time-Honored Brand Restaurant Tour
+- ✓ Article word count OK: Advanced Time-Honored Brand Restaurant Tour: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Time-Honored Brand Restaurant Tour
+- ✓ Article word count OK: Advanced Time-Honored Brand Restaurant Tour Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Time-Honored Brand Restaurant Tour
+- ✓ Article word count OK: Advanced Time-Honored Brand Restaurant Tour in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Time-Honored Brand Restaurant Tour
+- ✓ Article word count OK: Common Mistakes in Advanced Time-Honored Brand Restaurant Tour
+- ✓ Article word count OK: Advanced Time-Honored Brand Restaurant Tour for Beginners
+- ✓ Article word count OK: Advanced Advanced Time-Honored Brand Restaurant Tour Techniques
+- ✓ Article word count OK: The Ultimate Guide to Time-Honored Brand Restaurant Tour Tips
+- ✓ Article word count OK: Time-Honored Brand Restaurant Tour Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Time-Honored Brand Restaurant Tour Tips
+- ✓ Article word count OK: Time-Honored Brand Restaurant Tour Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Time-Honored Brand Restaurant Tour Tips
+- ✓ Article word count OK: Time-Honored Brand Restaurant Tour Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Time-Honored Brand Restaurant Tour Tips
+- ✓ Article word count OK: Common Mistakes in Time-Honored Brand Restaurant Tour Tips
+- ✓ Article word count OK: Time-Honored Brand Restaurant Tour Tips for Beginners
+- ✓ Article word count OK: Advanced Time-Honored Brand Restaurant Tour Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Time-Honored Brand Restaurant Tour History
+- ✓ Article word count OK: Time-Honored Brand Restaurant Tour History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Time-Honored Brand Restaurant Tour History
+- ✓ Article word count OK: Time-Honored Brand Restaurant Tour History Tips and Best Practices
+- ✓ Article word count OK: The History of Time-Honored Brand Restaurant Tour History
+- ✓ Article word count OK: Time-Honored Brand Restaurant Tour History in 2026: Current Trends
+- ✓ Article word count OK: Future of Time-Honored Brand Restaurant Tour History
+- ✓ Article word count OK: Common Mistakes in Time-Honored Brand Restaurant Tour History
+- ✓ Article word count OK: Time-Honored Brand Restaurant Tour History for Beginners
+- ✓ Article word count OK: Advanced Time-Honored Brand Restaurant Tour History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Time-Honored Brand Restaurant Tour
+- ✓ Article word count OK: Trending Time-Honored Brand Restaurant Tour: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Time-Honored Brand Restaurant Tour
+- ✓ Article word count OK: Trending Time-Honored Brand Restaurant Tour Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Time-Honored Brand Restaurant Tour
+- ✓ Article word count OK: Trending Time-Honored Brand Restaurant Tour in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Time-Honored Brand Restaurant Tour
+- ✓ Article word count OK: Common Mistakes in Trending Time-Honored Brand Restaurant Tour
+- ✓ Article word count OK: Trending Time-Honored Brand Restaurant Tour for Beginners
+- ✓ Article word count OK: Advanced Trending Time-Honored Brand Restaurant Tour Techniques
+- ✓ Article word count OK: The Ultimate Guide to Time-Honored Brand Restaurant Tour Tutorials
+- ✓ Article word count OK: Time-Honored Brand Restaurant Tour Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Time-Honored Brand Restaurant Tour Tutorials
+- ✓ Article word count OK: Time-Honored Brand Restaurant Tour Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Time-Honored Brand Restaurant Tour Tutorials
+- ✓ Article word count OK: Time-Honored Brand Restaurant Tour Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Time-Honored Brand Restaurant Tour Tutorials
+- ✓ Article word count OK: Common Mistakes in Time-Honored Brand Restaurant Tour Tutorials
+- ✓ Article word count OK: Time-Honored Brand Restaurant Tour Tutorials for Beginners
+- ✓ Article word count OK: Advanced Time-Honored Brand Restaurant Tour Tutorials Techniques
+- ✓ Ad configuration validated
